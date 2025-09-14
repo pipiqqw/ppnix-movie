@@ -74,7 +74,7 @@ https://stream1.freetv.fun/945b62a11c90469ac374aa5fad47364339e509f9d53b0768e2dc5
 #EXTINF:-1 tvg-name="中天亞洲FHD" tvg-id="410372" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032139085563_41.png" group-title="綜合",[HD]中天亚洲
 https://stream1.freetv.fun/1d5bcf404663458dc4ecbb6af5636f1a69caaf28adbc92bcb0df05160090a4c6.ctv
 #EXTINF:-1 tvg-name="中天娛樂HD" tvg-id="369183" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="綜藝",[HD]中天娱乐
-https://stream1.freetv.fun/55f3b284ae393f588f20bc0946a8ee7456ebd7e538d8418e82cf4c7c8fc7a177.m3u8
+https://ushls.ballbar.net/ctient/playlist-25.m3u8a?t=1757878553&token=db2dc2c20a796bcebfe5a368d787f90e
 #EXTINF:-1 tvg-name="中天娛樂HD" tvg-id="369183" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="綜藝",[HD]中天娱乐
 https://stream1.freetv.fun/f5e9d252203d5e33b5b8a89ea4d4adbf41c5cb5e8ac6de12dd9d61f28333270d.m3u8
 #EXTINF:-1 tvg-name="中天新聞HD" tvg-id="370177" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新聞",[HD]中天新闻
