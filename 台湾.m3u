@@ -117,5 +117,5 @@ https://ushls.ballbar.net/ctv_taiwan/playlist-25.m3u8a?t=1757864427&token=c0d890
 https://ushls.ballbar.net/ctv_taiwan/playlist-25.m3u8a?t=1757863600&token=02e0459e4d9e0dfba9e26df54884afa7
 #EXTINF:-1 tvg-name="公视FHD" tvg-id="370177" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png" group-title="新聞",[HD]公视
 https://ushls.ballbar.net/ctv_taiwan/playlist-25.m3u8a?t=1757863600&token=02e0459e4d9e0dfba9e26df54884afa7
-#EXTINF:-1 tvg-name="CCTV1FHD" tvg-id="370177" tvg-country="CCTV" tvg-language="國語" tvg-logo="https://github.com/pipiqqw/vbskycn-m3u/blob/master/TV_Logo_png/CCTV-1_Logo.png" group-title="新聞",[HD]CCTV1
+#EXTINF:-1 tvg-name="CCTV1FHD" tvg-id="370177" tvg-country="CCTV" tvg-language="國語" tvg-logo="https://github.com/pipiqqw/vbskycn-m3u/blob/master/TV_Logo_png/CCTV1.png" group-title="新聞",[HD]CCTV1
 http://api.kkitv.itv888.vip:8080/streams/f5fuln3kthe/index.m3u8
