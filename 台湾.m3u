@@ -76,7 +76,7 @@ https://stream1.freetv.fun/1d5bcf404663458dc4ecbb6af5636f1a69caaf28adbc92bcb0df0
 #EXTINF:-1 tvg-name="中天娛樂HD" tvg-id="369183" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="綜藝",[HD]中天娱乐
 https://ushls.ballbar.net/ctient/playlist-25.m3u8a?t=1757878553&token=db2dc2c20a796bcebfe5a368d787f90e
 #EXTINF:-1 tvg-name="中天娛樂HD" tvg-id="369183" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="綜藝",[HD]中天娱乐
-https://stream1.freetv.fun/f5e9d252203d5e33b5b8a89ea4d4adbf41c5cb5e8ac6de12dd9d61f28333270d.m3u8
+https://ushls.ballbar.net/ctient/playlist-25.m3u8a?t=1757878770&token=3d379b78773d861a80f840a0765c120d
 #EXTINF:-1 tvg-name="中天新聞HD" tvg-id="370177" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新聞",[HD]中天新闻
 https://ushls.ballbar.net/ctinews/playlist-25.m3u8a?t=1757866553&token=f6502670a3b9d9f2342ac5fbff0076ef
 #EXTINF:-1 tvg-name="中天新聞HD" tvg-id="370177" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新聞",[HD]中天新闻
